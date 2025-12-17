@@ -1,4 +1,5 @@
-﻿import MockupCreator from "./MockupCreator.jsx";
+﻿import React from "react";
+import MockupCreator from "./MockupCreator.jsx";
 import "./App.css";
 
 function App() {
